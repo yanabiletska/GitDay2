@@ -9,4 +9,6 @@ public class HomePage {
     //menu
 
     //logo
+
+    //added more things
 }
