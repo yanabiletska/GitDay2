@@ -9,4 +9,6 @@ public class Sales {
     //.....
 
     //more sales added
+
+    //holidays sales
 }
